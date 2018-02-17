@@ -1,0 +1,6 @@
+Paragraph Analysis for input.txt
+--------------------------------
+Approximate Word Count: 114
+Approximate Sentence Count: 7
+Average Letter Count per Word: 5.38
+Average Words per Sentence: 16.29
